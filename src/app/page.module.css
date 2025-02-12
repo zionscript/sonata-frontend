@@ -172,9 +172,11 @@ a.secondary {
   }
   .firstHeading {
     width: auto;
+    font-size: 1em;
   }
   .pDescription {
     width: auto;
+    font-size: 1rem;
   }
   .ctas {
     display: block;
