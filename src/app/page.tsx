@@ -10,9 +10,9 @@ export default function Home() {
             <div className={styles.imageArea}>
               <Image alt="exemplo autor - Editora Sonata" src="/autor-bw.png" width={2800} height={2100} />
             </div>
-            <p className={styles.firstHeading}>É um <i className={styles.pHighlight}>Autor</i> independente e Quer publicar <i className={styles.pHighlight}>seu livro</i>? <br></br>Fale conosco!</p>
+            <p className={styles.firstHeading}>É um <i className={styles.pHighlight}>Autor</i> independente e precisa de uma <i className={styles.pHighlight}>edição profissional</i> para <i className={styles.pHighlight}>seu livro</i>? <br></br>Fale conosco!</p>
             <hr></hr>
-            <p className={styles.pDescription}>Diagramação profissional, design de capas, ISBN, publicação digital</p>
+            <p className={styles.pDescription}>Diagramação profissional, design de capas e revisão digital</p>
             <div className={styles.ctas}>
               <a
                 className={styles.primary}
