@@ -57,7 +57,7 @@
 }
 /* Image Area */
 .imageArea {
-  width: 600px;
+  width: 50%;
   float: right;
 }
 .imageArea > img {
@@ -68,12 +68,12 @@
 /* Content */
 
 .content {
-  width: 60vw;
+  width: 90vw;
   margin: 0 auto;
 }
 
 .firstHeading {
-  width: 600px;
+  width: 50%;
   
   font-family: var(--font-zilla);
   font-weight: 500;
